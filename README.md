@@ -2,5 +2,5 @@
 
 ## To Run Project Just Paste Command And Clone Project
 ```
-git clone <Project Link>
+git clone https://github.com/TejasNasre/MyBlog.git
 ```
